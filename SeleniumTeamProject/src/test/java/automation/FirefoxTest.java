@@ -9,7 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterTest;
 
-public class FirefoxSuite {
+public class FirefoxTest {
 
 	private WebDriver driver;
 	
